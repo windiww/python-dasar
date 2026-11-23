@@ -1,0 +1,2 @@
+Progress belajar Python Dasar mencapai Bab #17.
+Exception handling dan file I/O berjalan normal.
